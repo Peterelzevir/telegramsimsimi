@@ -1,2 +1,2 @@
 # telegramsimsimi
-Script Telegram PHP simsimi bot FREEE
+Script Telegram Simsimi PHP simsimi bot FREEE
